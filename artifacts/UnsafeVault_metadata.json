@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Presentation/Unsafe.sol": "UnsafeVault"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Presentation/Unsafe.sol": {
+			"keccak256": "0x7cc69722d37258c5e7f14dd8ddd1764cae423ef29d2adff418bc50cc1a1cb582",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b426a034094b82dec1a459f686b01d7d4031ab54431fac1310591b3c5bd75bea",
+				"dweb:/ipfs/QmR4DNNsq1xfXr5pcd4PTJowbME8dmvvYk2TbgAxhfQKnr"
+			]
+		}
+	},
+	"version": 1
+}

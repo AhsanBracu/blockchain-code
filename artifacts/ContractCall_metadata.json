@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "forthCon",
+						"type": "address"
+					}
+				],
+				"name": "callContract",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"challenge-4/chal4.sol": "ContractCall"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"challenge-4/chal4.sol": {
+			"keccak256": "0x339ec13cd7d58dfc926786ba5f0557e8995bd794ebfaf264d1979bba67f20dca",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://e6f1c324e6280bb5c86e7fed5e3581325149fd008162c2b032c7a768f274c158",
+				"dweb:/ipfs/QmVLa5VT32XW8nZs6jjpYbNW8KggxhCbrVYxHmgojauDGf"
+			]
+		}
+	},
+	"version": 1
+}
